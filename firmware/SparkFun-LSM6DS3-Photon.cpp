@@ -26,11 +26,11 @@ Distributed as-is; no warranty is given.
 
 //See SparkFunLSM6DS3.h for additional topology notes.
 
-#include "SparkFunLSM6DS3.h"
+#include "SparkFun-LSM6DS3-Photon.h"
 #include "stdint.h"
 
-#include "Wire.h"
-#include "SPI.h"
+//#include "Wire.h"
+//#include "SPI.h"
 
 //****************************************************************************//
 //
