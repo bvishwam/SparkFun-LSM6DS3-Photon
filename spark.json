@@ -1,0 +1,7 @@
+{
+    "name" : "SparkFun-LSM6DS3-Photon",
+    "version" : "1.0.0",
+    "author" : "Bertrand Sirodot", 
+    "description" : "A library to support the LSM6DS3 with the Particle Photon. The Library is based on the Arduino library.",
+    "license" : "MIT"
+}
