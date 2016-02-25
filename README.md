@@ -1,4 +1,4 @@
-SparkFun LSM6DS3 Arduino Library
+SparkFun LSM6DS3 Particle Photon Library
 ========================================
 
 ![LSM6DS3 Breakout](https://cdn.sparkfun.com/assets/learn_tutorials/4/1/6/perspective.jpg)
